@@ -3,7 +3,7 @@
     <img src="https://avatars.githubusercontent.com/u/70494002?v=4" alt="Urangani Terrence's Profile Picture" width="150" style="border-radius: 50%;">
   </a>
   <h1>👋 Hi, I'm Urangani Terrence</h1>
-  <h3>🚀 Goal-Driven Full Stack Developer with a Data Science Drive 💡</h3>
+  <h3> Goal-Driven Full Stack Developer with a Data Science Drive </h3>
 </div>
 
 ---
@@ -15,11 +15,8 @@
 </p>
 
 ## 🌟 About Me
-
-* 💻 I'm passionate about building robust and scalable applications from **front-end to back-end**, always with an eye on **data-driven insights**.
-* 🌱 I'm currently diving deep into **React** for modern UI development, mastering **Machine Learning** algorithms, and exploring the performance-focused world of **Rust**.
-* 💼 My focus is on blending development speed with analytical rigor to solve complex, real-world problems.
-* 📫 **How to reach me:** Feel free to connect via email at **www.uranganidc@gmail.com**
+I'm passionate about building robust and scalable applications from front-end to back-end, always with an eye on data-driven insights.I'm currently diving deep into **React** for modern UI development, mastering **Machine Learning** algorithms, and exploring the performance-focused world of **Rust**.My focus is on blending development speed with analytical rigor to solve complex, real-world problems.
+**How to reach me:** Feel free to connect via email at **www.uranganidc@gmail.com**
 
 ---
 
@@ -50,6 +47,7 @@ I work with a diverse set of technologies, spanning web development, data, and s
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Blender-FF6A00?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" />
+  <img src="https://img.shields.io/badge/Sqlite-61DAFB?style=for-the-badge&logo=sqlite&logoColor=white" alt="Sqlite" />
 </p>
 
 ---
