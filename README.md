@@ -2,8 +2,8 @@
   <a href="https://github.com/urangani">
     <img src="https://avatars.githubusercontent.com/u/70494002?v=4" alt="Urangani Terrence's Profile Picture" width="150" style="border-radius: 50%;">
   </a>
-  <h1>👋 Hi, I'm Urangani Terrence</h1>
-  <h3> Goal-Driven Full Stack Developer with a Data Science Drive </h3>
+  <h1>Hi, I'm Urangani Terrence</h1>
+  <h3>Goal-Driven Full Stack & Software Developer</h3>
 </div>
 
 ---
@@ -11,27 +11,30 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=urangani&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
   &nbsp; &nbsp;
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=urangani&theme=darkhub" alt="GitHub Trophies" /></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=urangani&theme=darkhub" alt="GitHub Trophies" />
+  </a>
 </p>
 
 ## 🌟 About Me
-I'm passionate about building robust and scalable applications from front-end to back-end, always with an eye on data-driven insights.I'm currently diving deep into **React** for modern UI development, mastering **Machine Learning** algorithms, and exploring the performance-focused world of **Rust**.My focus is on blending development speed with analytical rigor to solve complex, real-world problems.
-**How to reach me:** Feel free to connect via email at **www.uranganidc@gmail.com**
+I build robust, scalable software systems across the full stack — from clean, responsive frontends to reliable backend architectures. My focus is on software engineering fundamentals, performance, and maintainable code.
+
+I’m currently strengthening my expertise in **React** for modern UI development and building high-performance backend APIs using **Python** and **FastAPI**. I care about writing software that is correct, efficient, and built to last.
+
+**How to reach me:** www.uranganidc@gmail.com
 
 ---
 
 ## 🛠️ Tech Stack & Tools
 
-I work with a diverse set of technologies, spanning web development, data, and system-level programming.
-
-| Category | Languages/Tools |
+| Category | Languages / Tools |
 | :--- | :--- |
-| **Web Development** | HTML5, CSS3, JavaScript, Node.js, React, TypeScript, Firebase |
-| **Backend & System** | Java, C++, Rust (Learning) |
-| **Database & Data** | MySQL, Data Science Drive |
-| **Version Control & OS**| Git, Linux |
-| **Design** | Blender |
-
+| **Web Development** | HTML5, CSS3, JavaScript, TypeScript, React, Node.js,FastApi |
+| **Backend & Systems** | Java, C++, Python|
+| **Databases** | MySQL, SQLite, Firebase |
+| **Version Control & OS** | Git, Linux |
+| **Design & 3D** | Blender , Figma|
+|**Tools**| Postmen |
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
@@ -39,15 +42,16 @@ I work with a diverse set of technologies, spanning web development, data, and s
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Blender-FF6A00?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" />
-  <img src="https://img.shields.io/badge/Sqlite-61DAFB?style=for-the-badge&logo=sqlite&logoColor=white" alt="Sqlite" />
 </p>
 
 ---
@@ -62,5 +66,5 @@ I work with a diverse set of technologies, spanning web development, data, and s
 ---
 
 <p align="center">
-  **"Code is not just what we write, but what we use to solve problems and understand data."**
+  <strong>"Good software is built with intent, discipline, and respect for complexity."</strong>
 </p>
