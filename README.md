@@ -30,7 +30,7 @@ I’m currently strengthening my expertise in **React** for modern UI developmen
 | Category | Languages / Tools |
 | :--- | :--- |
 | **Web Development** | HTML5, CSS3, JavaScript, TypeScript, React, Node.js,FastApi |
-| **Backend & Systems** | Java, C++, Python|
+| **Backend & Systems** | Java, C++, Python, Bash |
 | **Databases** | MySQL, SQLite, Firebase |
 | **Version Control & OS** | Git, Linux |
 | **Design & 3D** | Blender , Figma|
@@ -52,6 +52,7 @@ I’m currently strengthening my expertise in **React** for modern UI developmen
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Blender-FF6A00?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" />
+  <img src="https://img.shields.io/badge/Bash-FF6A00?style=for-the-badge&logo=Bash&logoColor=white" alt="Bash" />
 </p>
 
 ---
