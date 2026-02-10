@@ -31,5 +31,5 @@
 ---
 
 <p align="center">
-  <strong>"Humans Learning No!, Machine learning."</strong>
+  <strong>"Machines Learning?, Humans Learning!"</strong>
 </p>
