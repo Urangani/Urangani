@@ -1,40 +1,13 @@
 <div align="center">
-  <a href="https://github.com/urangani">
-    <img src="https://avatars.githubusercontent.com/u/70494002?v=4" alt="Urangani Terrence's Profile Picture" width="150" style="border-radius: 50%;">
-  </a>
   <h1>Hi, I'm Urangani Terrence</h1>
-  <h3>Goal-Driven Full Stack & Software Developer</h3>
+  <h3>Software Engineer | Developer</h3>
 </div>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=urangani&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
-  &nbsp; &nbsp;
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=urangani&theme=darkhub" alt="GitHub Trophies" />
-  </a>
-</p>
-
-## 🌟 About Me
-I build robust, scalable software systems across the full stack — from clean, responsive frontends to reliable backend architectures. My focus is on software engineering fundamentals, performance, and maintainable code.
-
-I’m currently strengthening my expertise in **React** for modern UI development and building high-performance backend APIs using **Python** and **FastAPI**. I care about writing software that is correct, efficient, and built to last.
-
-**How to reach me:** www.uranganidc@gmail.com
+**How to reach me if you want to hire me:** www.uranganidc@gmail.com
 
 ---
-
-## 🛠️ Tech Stack & Tools
-
-| Category | Languages / Tools |
-| :--- | :--- |
-| **Web Development** | HTML5, CSS3, JavaScript, TypeScript, React, Node.js,FastApi |
-| **Backend & Systems** | Java, C++, Python, Bash |
-| **Databases** | MySQL, SQLite, Firebase |
-| **Version Control & OS** | Git, Linux |
-| **Design & 3D** | Blender , Figma|
-|**Tools**| Postmen |
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
@@ -57,15 +30,6 @@ I’m currently strengthening my expertise in **React** for modern UI developmen
 
 ---
 
-## 🔥 My GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=urangani&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="Urangani GitHub Stats" />
-  <img src="https://github-readme-streak-stats.vercel.app/?user=urangani&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-<p align="center">
-  <strong>"Good software is built with intent, discipline, and respect for complexity."</strong>
+  <strong>"Humans Learning No!, Machine learning."</strong>
 </p>
