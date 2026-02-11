@@ -32,4 +32,6 @@
 
 <p align="center">
   <strong>"Machines Learning?, Humans Learning!"</strong>
+  <br/>
+  <i>~Urangani Terrence Mafunzwaini</i>
 </p>
