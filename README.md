@@ -47,6 +47,7 @@ Backend
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
 <img src="https://img.shields.io/badge/NATS-27AAE1?style=for-the-badge&logo=nats.io&logoColor=white" alt="NATS" />
+<img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
 </p>
 Databases / ORM
 
@@ -67,7 +68,9 @@ Tools & Platforms
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-</p>
+<img src="https://camo.githubusercontent.com/28b5ffd8f49341656d05ea42230b36f741bf5b55617b8b723888486557cdab1a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e656f56696d2d2532333537413134332e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6e656f76696d266c6f676f436f6c6f723d7768697465"
+alt="Neovim" />
+  </p>
 
 ### Other Tech / Creative
 
